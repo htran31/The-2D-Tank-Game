@@ -41,12 +41,13 @@ Then, Choose the right SDK which is Java openjdk-20 Oracle OpenJDK version 20 in
  
 ## Steps to run your Project:
 In tankrotationexample folder, at Launcher class:
-o Right click, then select Run Launcher.main()
-o (OR) Ctrl+Shift+F10
+1. Right click, then select Run Launcher.main()
+2. (OR) Ctrl+Shift+F10
+
 (OR)
 In jar folder, at The-2D-Tank-Game.jar file
-o Right click, then select Run The-2D-Tank-Game.jar
-o (OR) Ctrl+Shift+F10
+1. Right click, then select Run The-2D-Tank-Game.jar
+2. (OR) Ctrl+Shift+F10
 
 ## Controls to play your Game:
 
