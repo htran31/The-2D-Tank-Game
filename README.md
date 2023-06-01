@@ -33,6 +33,7 @@ IntelliJ IDEA
 1. Open IntelliJ IDEA and click on "Open or Import" on the welcome screen.
 2. Navigate to the folder containing the game project files and select the project's root directory.
 3. Choose "Open as Project" to import the project into IntelliJ IDEA.
+
 Configure project settings:
 Check that the project SDK (Java Development Kit) is correctly set. 
 If not, you can configure it by going to "File" -> "Project Structure" -> "Project" and selecting the appropriate JDK.
@@ -43,8 +44,8 @@ In tankrotationexample folder, at Launcher class:
 o Right click, then select Run Launcher.main()
 o (OR) Ctrl+Shift+F10
 (OR)
-In jar folder, at csc413-tankgame-htran31.jar file
-o Right click, then select Run csc413-tankgame-htran31.jar
+In jar folder, at The-2D-Tank-Game.jar file
+o Right click, then select Run The-2D-Tank-Game.jar
 o (OR) Ctrl+Shift+F10
 
 ## Controls to play your Game:
