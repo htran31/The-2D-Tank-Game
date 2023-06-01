@@ -23,9 +23,11 @@ The jar folder is to be used to store the built jar of your term-project.
 
 # Required Information when Submitting Tank Game
 
-## Version of Java Used: Java openjdk-20 Oracle OpenJDK version 20
+## Version of Java Used: 
+Java openjdk-20 Oracle OpenJDK version 20
 
-## IDE used: IntelliJ IDEA
+## IDE used: 
+IntelliJ IDEA
 
 ## Steps to Import project into IDE:
 1. Open IntelliJ IDEA and click on "Open or Import" on the welcome screen.
